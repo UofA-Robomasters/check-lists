@@ -1,2 +1,8 @@
 # check-lists
-This repo store the check lists for competition
+This repo stores the check lists for competition.
+
+**Contributers:**
+```
+- Chenrui Lei
+```
+
