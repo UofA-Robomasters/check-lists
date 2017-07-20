@@ -11,6 +11,7 @@
 | Manifold USB to micro USB Cable | 3 |
 | Manifold Hex Socket Screw | 12 |
 | Manifold Torx Screw | 12 |
+| Manifold 90 Degree Stand | 12 |
 | Intel Dual Band Wireless-AC 7260 (7260HMW) | 4 |
 | Antenna | 2 |
 | KS2A17 USB Camera module | 5 |
